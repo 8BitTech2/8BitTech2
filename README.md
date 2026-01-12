@@ -50,9 +50,7 @@ Beyond coding and system configuration, I am deeply passionate about **cybersecu
 - CIS Critical Security Controls  
 
 ---
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=8BitTech2&theme=dark)](https://git.io/streak-stats)
-
+[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## 📫 How to Reach Me
