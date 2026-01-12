@@ -51,16 +51,7 @@ Beyond coding and system configuration, I am deeply passionate about **cybersecu
 
 ---
 
-## 📊 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=8BitTech2&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=8BitTech2&layout=compact&theme=default)
-
-
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=8BitTech2&show_icons=true&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=8BitTech2&layout=compact&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=8BitTech2&theme=dark)](https://git.io/streak-stats)
 
 ---
 
