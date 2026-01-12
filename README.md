@@ -50,7 +50,7 @@ Beyond coding and system configuration, I am deeply passionate about **cybersecu
 - CIS Critical Security Controls  
 
 ---
-[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=8Bittech2&show_icons=true&theme=radical&hide_border=false)](https://github.com/8BitTech2/github-readme-stats)
 ---
 
 ## 📫 How to Reach Me
