@@ -12,8 +12,42 @@ I am currently enrolled in **CSC-113: AI Fundamentals**, where I am developing f
 ---
 
 ## 🔥 My “Foo”
-Beyond coding and system configuration, I am deeply passionate about **cybersecurity education and mentorship**. I actively design curriculum-aligned labs, mentor students, support competitive cybersecurity activities, and advocate for accessible, high-impact technical education, particularly within community college and workforce development environments. Teaching and applied learning are central to my professional identity.
+## 🔥 My “Foo” — Travel & Cultural Exploration
+🌍 Beyond technology and cybersecurity, I am deeply passionate about **international travel and cultural exploration**. My experiences span multiple continents and decades, exposing me to diverse political systems, cultures, languages, and operational environments. These experiences have strengthened my adaptability, situational awareness, and global perspective—qualities that directly inform my approach to cybersecurity, risk analysis, and problem solving.
 
+### ✈️ Selected Travel Experience
+| Year / Date | Location | Country | With Whom | Remarks |
+|------------|---------|---------|----------|---------|
+| Jun 1986 | Panama | Panama | Aldo Mata | |
+| Mar 1987 | Veracruz | Mexico | Aldo Mata, David Dodd | |
+| Dec 1987 | Cancun | Mexico | Jim Vickers | |
+| Oct 1990 | Saudi Arabia | Saudi Arabia | | |
+| Mar 1991 | Iraq | Iraq | | |
+| 1998 | Sonora Bay | Mexico | Vicki | |
+| 1999 | Germany, Austria, Luxembourg | Europe | Vicki | Romantische Straße |
+| Mar 1999 | Italy, Vatican City | Europe | Vicki | |
+| Dec 1999 | Tegucigalpa | Honduras | Vicki | |
+| 2000 | Nova Scotia | Canada | Vicki | |
+| Sept 2003 | Nassau | Bahamas | Vicki, Alex | |
+| 2011 | Rothenburg | Germany | Vicki, Alex, Zoe | |
+| Dec 2015 | Taipei | Taiwan | John Wu | |
+| Jun 2019 | Castaway Cay | Bahamas | Vicki, Alex, Zoe | |
+| Oct 2022 | Istanbul | Turkey | Vicki | Medical tourism |
+| Mar 2023 | Japan | Japan | Family | Bullet train experience |
+| Mar 2024 | Japan | Japan | | |
+| 2024 | Netherlands, Canada | Europe/North America | Alex, Vicki | College search |
+| Jul 2025 | France, Morocco, Gibraltar, Spain, Portugal | Europe/Africa | Solo | Bucket-list journey |
+
+🌐 Travel has shaped how I view systems, risk, resilience, and human behavior across borders. These lived experiences consistently inform my work in cybersecurity education, global threat awareness, and technology decision-making.
+
+### 🌐 Global Travel Footprint
+🇵🇦 🇲🇽 🇸🇦 🇮🇶 🇩🇪 🇦🇹 🇱🇺 🇮🇹 🇻🇦 🇭🇳 🇨🇦 🇧🇸 🇹🇼 🇹🇷 🇯🇵 🇳🇱 🇫🇷 🇲🇦 🇬🇮 🇪🇸 🇵🇹  
+🌎 North America · 🌍 Europe · 🌏 Asia · 🌍 Middle East · 🌍 Africa
+
+### 🧠 Relevance to Human Factors in Cybersecurity
+My international experiences reinforce that cybersecurity is not solely a technical challenge but a **socio-technical problem** shaped by trust, communication, cultural expectations, and decision-making under uncertainty. Observing how people interact with technology across cultures has strengthened my ability to anticipate user behavior, recognize insider risk indicators, and design security controls that account for real-world human limitations rather than idealized users.
+
+This global perspective supports my broader interests in **human factors in cybersecurity, cybersecurity education, and policy-aware system design**, where effective security depends on aligning technical controls with human behavior and organizational culture.
 ---
 
 ## 🧠 Core Interests
