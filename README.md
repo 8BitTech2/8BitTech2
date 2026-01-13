@@ -11,7 +11,6 @@ I am currently enrolled in **CSC-113: AI Fundamentals**, where I am developing f
 
 ---
 
-## 🔥 My “Foo”
 ## 🔥 My “Foo” — Travel & Cultural Exploration
 🌍 Beyond technology and cybersecurity, I am deeply passionate about **international travel and cultural exploration**. My experiences span multiple continents and decades, exposing me to diverse political systems, cultures, languages, and operational environments. These experiences have strengthened my adaptability, situational awareness, and global perspective—qualities that directly inform my approach to cybersecurity, risk analysis, and problem solving.
 
