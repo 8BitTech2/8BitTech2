@@ -7,12 +7,20 @@ Cybersecurity and information technology professional with a strong academic and
 ---
 
 ## 🌱 Currently Learning
-I am currently enrolled in **CSC-113: AI Fundamentals**, where I am developing foundational knowledge in artificial intelligence, ethical AI considerations, and applied AI use cases within cybersecurity and information systems. This coursework directly supports my long-term focus on AI-integrated cyber defense education and secure system design.
+I am currently enrolled in "CSC-114: AI I", where I am increasing my knowledge in artificial intelligence, ethical AI considerations, and applied AI use cases within cybersecurity and information systems. This coursework directly supports my long-term focus on AI-integrated cyber defense education and secure system design.
+
+� AI collaboration and prompt engineering
+� GitHub workflows and version control
+� Building my first AI assistants
+
 
 ---
 
 ## 🔥 My “Foo” — Travel & Cultural Exploration
 🌍 Beyond technology and cybersecurity, I am deeply passionate about **international travel and cultural exploration**. My experiences span multiple continents and decades, exposing me to diverse political systems, cultures, languages, and operational environments. These experiences have strengthened my adaptability, situational awareness, and global perspective—qualities that directly inform my approach to cybersecurity, risk analysis, and problem solving.
+
+USA States not visited as of yet (8) : Alaska, Colorado, North Dakota, Missori, Nebraska, Arkanasas, Michigan, Wisconsin
+Antarctica is the only continent that I have not visited
 
 ### ✈️ Selected Travel Experience
 | Year / Date | Location | Country | With Whom | Remarks |
@@ -95,7 +103,7 @@ I welcome collaboration on cybersecurity education, AI fundamentals, cloud secur
 ---
 
 ## ⚡ Fun Fact
-I hold multiple associate degrees across different IT disciplines, giving me a rare cross-functional perspective that connects cybersecurity, networking, cloud systems, and end-user support into a cohesive operational view.
+I hold multiple associate degrees across different IT disciplines, giving me a rare cross-functional perspective that connects cybersecurity, networking, cloud systems, and end-user support into a cohesive operational view. I currently have 14 active industry certifications too!
 
 ```
 
